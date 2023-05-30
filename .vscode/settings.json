@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "namespace_default_nodeset_generated.h": "c",
+        "config.h": "c",
+        "namespace_default_namespace_generated.h": "c"
+    }
+}
